@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color:#000000 ;
+    color: #F6F6F6;
+    justify-content: center;
+}
+
+
+.titulo-destaque {
+    color: #8E26E0;
+}
+
+.apresentacao-conteudo-titulo {
+    font-size: 36px;
+    font-family:"Krona One", sans-serif;
+}
+
+.apresentacao-conteudo-paragrafo {
+    font-size: 20px;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+
+.apresentacao-conteudo {
+    width:615px;
+    height: 482px;
+}
+
+.apresentacao-imagem {
+
+}
