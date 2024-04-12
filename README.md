@@ -4,9 +4,6 @@
 
 O Portfólio é uma página dedicada a demonstrar com sucesso e clareza as habilidades de um profissional.
 
-<img src="https://user-images.githubusercontent.com/3089882/136043109-1fc85faa-8cfb-4056-a144-98f0f75c2565.png" alt="Imagem do Portólio" width="50%">
-
-
 ## 🔨 Funcionalidades do projeto
 
 O Portfólio tem funcionalidades como responsividade através de @media querys inseridas no código para ter responsividade para dispositivos móveis e também foram utilizadas técnicas de Hover Css e FlexBox.
