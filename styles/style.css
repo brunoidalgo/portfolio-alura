@@ -145,7 +145,7 @@ body {
 
 
 /* CSS media query Mobile and Tablets */
-@media (min-width: 412px) and (max-width: 1200px) {
+@media (min-width: 280px) and (max-width: 1200px) {
     
     .cabecalho {
         padding: 5%;
